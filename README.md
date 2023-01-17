@@ -1,2 +1,16 @@
-# dont-target-100-coverage
-Don't target 100% coverage, but achieve it
+# Don't target 100%, but achieve it anyway.
+
+This is a project sample created for [the blog post I wrote](https://dev.to/antoinecoulon/dont-target-100-coverage-but-achieve-it) on the subject.
+
+```bash
+$ npm install
+
+// Unit Tests + Code Coverage report
+$ npm run test 
+
+// Unit Tests + Mutation Testing report
+$ npm run mutation-test 
+```
+
+
+
