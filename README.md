@@ -1,6 +1,6 @@
 # Don't target 100%, but achieve it anyway.
 
-This is a project sample created for [the blog post I wrote](https://dev.to/antoinecoulon/dont-target-100-coverage-but-achieve-it) on the subject.
+This is a project sample created for [the blog post I wrote](https://dev.to/antoinecoulon/dont-target-100-coverage-387o) on the subject.
 
 ```bash
 $ npm install
